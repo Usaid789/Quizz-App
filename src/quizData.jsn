@@ -1,0 +1,11 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      { "text": "London", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true }
+    ]
+  },
+  Add more questions here
+]

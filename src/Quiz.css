@@ -1,0 +1,58 @@
+/* Quiz.css - Add this CSS file in the same directory as your component */
+
+.quiz-container {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: 20px;
+  }
+  
+  .quiz-results {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .question-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-title {
+    font-size: 1.2em;
+    margin-top: 0;
+  }
+  
+  .answer-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .answer-button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .answer-button:hover {
+    background-color: #2980b9;
+  }
+  .next-button{
+  background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  

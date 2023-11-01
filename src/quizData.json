@@ -1,0 +1,48 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "answers": [
+        { "text": "Hyper Transfer Markup Language", "isCorrect": false },
+        { "text": "Hyper Text Markup Language", "isCorrect": true },
+        { "text": "Hyperlink and Text Markup Language", "isCorrect": false },
+        { "text": "High-level Text Markup Language", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which CSS property is used to change the text color of an element?",
+      "answers": [
+        { "text": "font-style", "isCorrect": false },
+        { "text": "text-color", "isCorrect": false },
+        { "text": "color", "isCorrect": true },
+        { "text": "text-decoration", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "In JavaScript, what is the purpose of the 'querySelector' method?",
+      "answers": [
+        { "text": "To select the first element with a specified class name", "isCorrect": false },
+        { "text": "To select the first element with a specified ID", "isCorrect": false },
+        { "text": "To select the first element that matches a specified CSS selector", "isCorrect": true },
+        { "text": "To select all elements on the page", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which HTML tag is used to include an external JavaScript file?",
+      "answers": [
+        { "text": "<script>", "isCorrect": true },
+        { "text": "<link>", "isCorrect": false },
+        { "text": "<style>", "isCorrect": false },
+        { "text": "<js>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does CSS stand for?",
+      "answers": [
+        { "text": "Computer Style Sheets", "isCorrect": false },
+        { "text": "Creative Style Sheets", "isCorrect": false },
+        { "text": "Cascading Style Sheets", "isCorrect": true },
+        { "text": "Colorful Style Sheets", "isCorrect": false }
+      ]
+    }
+  ]
+  
